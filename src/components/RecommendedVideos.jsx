@@ -39,20 +39,20 @@ function RecommendedVideos() {
           image="https://i.ytimg.com/an_webp/MDRRVHPQlus/mqdefault_6s.webp?du=3000&sqp=CP-Q9YYG&rs=AOn4CLC4Ds3jLtRxgDy5tKoiZJIqQOZxKA"
         />
         <VideoCards
-          title="June 22 2021 | Vijay Birthday | Whatsapp Status | Vijay | #shorts | BGM Master |"
-          views="100k"
-          timestamp="3 weeks ago"
-          channelImage="https://yt3.ggpht.com/ytc/AKedOLSe95IK0c_kij0nqPUXF1YP-8AWETqTreOCaxY1=s176-c-k-c0x00ffffff-no-rj"
-          channel="BGM Master"
-          image="https://i.ytimg.com/vi/SdCmfOb-ONY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu4PblHQijScVTngFeJOVr4lzqmw"
+          title="Mr Bean - Red Bull Soapbox Race 2019 London - Full"
+          views="14M"
+          timestamp="3 years ago"
+          channelImage="https://yt3.ggpht.com/ytc/AKedOLTjkzOqOOdzt76t-h-f-KgaYo4pNXPYj0KduQFx=s88-c-k-c0x00ffffff-no-rj"
+          channel="Belly of the Whale"
+          image="https://i.ytimg.com/an_webp/CNmLMYmJg1M/mqdefault_6s_480x270.webp?du=3000&sqp=CPKq9YYG&rs=AOn4CLCzmS1ej_NjeSHEAhwg4nRpy40gFw"
         />
         <VideoCards
-          title="June 22 2021 | Vijay Birthday | Whatsapp Status | Vijay | #shorts | BGM Master |"
-          views="100k"
+          title="Base Apparel Coming Soon Page - Design to HTML/CSS"
+          views="200k"
           timestamp="3 weeks ago"
-          channelImage="https://yt3.ggpht.com/ytc/AKedOLSe95IK0c_kij0nqPUXF1YP-8AWETqTreOCaxY1=s176-c-k-c0x00ffffff-no-rj"
-          channel="BGM Master"
-          image="https://i.ytimg.com/vi/SdCmfOb-ONY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu4PblHQijScVTngFeJOVr4lzqmw"
+          channelImage="https://yt3.ggpht.com/ytc/AKedOLRMxFq0_oDPmgEOpgfCvoSlZ8_2uS51Ch4_wDFs=s88-c-k-c0x00ffffff-no-rj"
+          channel="Florin Pop"
+          image="https://i.ytimg.com/an_webp/8A7-0gsbHA0/mqdefault_6s.webp?du=3000&sqp=CM6o9YYG&rs=AOn4CLCM2LaPni3zLc5tCz4sOYEN7ARJMQ"
         />
       </div>
     </div>
