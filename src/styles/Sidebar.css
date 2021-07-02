@@ -9,3 +9,11 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.sidebar_heading{
+    padding: 0 20px;
+    font-size: 14px;
+    color: #606060;
+    font-weight: bold;
+    padding-bottom: 8px;
+}

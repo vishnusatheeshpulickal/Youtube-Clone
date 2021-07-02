@@ -25,3 +25,9 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.channelRow_title{
+    align-items: center;
+    display: flex;
+}
+

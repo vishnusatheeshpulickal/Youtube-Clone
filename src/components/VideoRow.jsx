@@ -4,7 +4,7 @@ import '../styles/VideoRow.css'
 function VideoRow({views,subs,description,timestamp,channel,title,image}) {
     return (
         <div className="videoRow">
-            <image src={image} alt={channel} />
+            <img src={image} alt={channel} />
             <div className="videoRow_text">
                 <h3>{title}</h3>
                 <p className="videoRow_headline">
