@@ -29,7 +29,7 @@ function Header() {
       <VideoCallIcon className="header_icon" />
       <AppsIcon className="header_icon" />
       <NotificationsIcon className="header_icon"/>
-      <Avatar src="" alt="user" />
+      <Avatar src="https://yt3.ggpht.com/yti/APfAmoE9PM9FhCK3pECq0NvlW1CYkAoAaOL26v3xoF_ZnQ=s88-c-k-c0x00ffffff-no-rj-mo" alt="user" />
       </div>
     </div>
   );
